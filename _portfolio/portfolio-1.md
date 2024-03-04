@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Combatting cyber bullying with AI"
+excerpt: 'Implementation of a conversational AI agent to provide emotional support<br/><video width="500" height="300" controls>
+  <source src="/images/E-confident demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>'
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+In response to the pressing issue of cyberbullying, I engineered a groundbreaking Conversational AI agent with vocal capabilities. This innovative solution aims to provide vital emotional support to individuals grappling with cyberbullying experiences. Utilizing a robust tech stack including Python, React, OpenAI API, Amazon Web Services, and Eleven Labs API, this project exemplifies the power of technology to address and mitigate the harmful effects of online harassment.
+
+
